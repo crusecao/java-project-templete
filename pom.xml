@@ -176,7 +176,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>dubbo</artifactId>
-                <version>2.8.4</version>
+                <version>2.6.9</version>
                 <exclusions>
                     <!--不排除的话引用其他版本httpclient可能会出错-->
                     <exclusion>
